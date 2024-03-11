@@ -1,7 +1,7 @@
 # Scratch_Data_Server
 data storage server for scratch
 
-#How to use?
+# How to use?
 - Download Python 3
 - Download "requirements.txt"
 - Open "main.py"
