@@ -9,3 +9,4 @@
 - Configure your project so it can use the server (i will change this when i release first version)
 - Run "main.py"
 - The server will stay on as long as "main.py" is running
+- No port forwarding needed!
